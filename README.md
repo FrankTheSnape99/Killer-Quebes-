@@ -1,9 +1,9 @@
-Assignment 1 – Game Concepts
+KillerQuebes – Game Concepts
 
 Grade: 74% (First Class)
 
 📌 Overview
-This was a first-year university assignment for the CO1301 – Games Concepts module.
+This was a first-year university assignment for my Games Concepts module.
 The project is a small 3D game created using C++ and the TL-Engine game framework.
 It demonstrates basic 3D graphics programming concepts such as:
 
